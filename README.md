@@ -1,6 +1,9 @@
-### José Carlos Hernández Piñera C511
-
 ##### Tarea Final de Criptografía. SNOW-3G
+
+### José Carlos Hernández Piñera C511
+### Henry Estevez Gomez C511
+### Yan Carlos Gonzalez C511
+### Aldo Verdecia C511
 
 
 
